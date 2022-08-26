@@ -1,0 +1,184 @@
+.start
+{
+    background-image: url("https://html.sammy-codes.com/images/background.jpg");
+    
+}
+nav
+{
+    background-color: aqua;
+    height: 50px;
+}
+
+.nav-link:hover
+{
+    font-size: 20px;
+}
+
+.first
+{
+    margin-top: 20px;
+    height: 300px;
+    width: 500px;
+    
+    padding: 50px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+
+
+    
+}
+.second
+{
+   
+    width: 170px;
+    
+}
+.image1
+{
+    height: 200px;
+    border: 1px solid red;
+    border-radius: 50%;
+    margin: 10px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.horr
+{
+    
+    text-align: left;
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+}
+
+.carousel
+{
+    padding: 50px;
+    margin-left: 370px;
+    width: 800px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    
+}
+
+.contact
+{
+    text-align: center;
+    margin-top: 0px;
+    text-shadow: 5px;
+
+}
+.tel
+{
+    height: 50px;
+    width: 410px;
+    border: 3px solid white;
+    margin:auto;
+    padding: 8px 150px ;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    
+    
+}
+.tel a img
+{
+    height: 30px;
+    margin-right: 5px;
+
+}
+
+#links
+{
+    height: 200px;
+    margin-top: 30px;
+}
+.social
+{
+    height: 150px;
+    border: 2px solid white;
+    bo
+}
+footer
+{
+    height: 150px;
+    background-color: black;
+}
+.social
+{
+    overflow: hidden;
+}
+.social ul
+{
+    margin: 0;
+    padding-top: 20px;
+    padding-left: 41%;
+    
+}
+.social ul li
+{
+    list-style-type:none;
+    float: left;
+    margin: 5px;
+}
+.social ul li:last-child
+{
+    margin-right: 0;
+}
+.social ul li a
+{
+    background-image: url("social.jpg");
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    width: 84px;
+    height: 84px;
+    display: inline-block;
+    border-radius: 50%;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+
+}
+.social ul li:hover:nth-child(1) a{
+    background-position: 0 -84px;
+}
+.social ul li:nth-child(2) a
+{
+    background-position:-670px 0;
+}
+.social ul li:hover:nth-child(2) a
+{
+    background-position: -670px -84px;
+}
+.social ul li:nth-child(3) a
+{
+    background-position:-840px 0;
+}
+.social ul li:hover:nth-child(3) a
+{
+    background-position: -840px -84px;
+}
+.skill
+{
+    border: 3px solid white;
+    height: 200px;
+    padding: ;
+    margin-top: 10px;
+}
+#lii
+{
+    height: 60px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    width: 400px;
+    margin: auto;
+   
+    
+}
+#lii img{
+    height: 50px;
+    padding-left: 30px;
+    margin-left: 5px;
+    
+
+}
+
+
+
+
+
